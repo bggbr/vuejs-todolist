@@ -53,4 +53,8 @@ li {
   margin-left: auto;
   color: #de4343;
 }
+
+.removeBtn:hover {
+  cursor: pointer;
+}
 </style>

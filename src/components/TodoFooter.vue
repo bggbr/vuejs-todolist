@@ -26,4 +26,8 @@ export default {
   color: #e20303;
   display: black;
 }
+
+.clearAllBtn:hover {
+  cursor: pointer;
+}
 </style>

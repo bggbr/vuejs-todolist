@@ -37,7 +37,6 @@ export default {
     },
     removeTodo(todoItem, index) {
       localStorage.removeItem(todoItem);
-      console.log(todoItem, index);
       this.todoItems.splice(index, 1);
     }
   },
